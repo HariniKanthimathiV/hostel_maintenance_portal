@@ -41,5 +41,3 @@ hostel_maintenance.exe
 - Search and status update traverse the linked list.
 - `malloc()` allocates each complaint node; `free()` releases all nodes on exit.
 
-## Scope note
-The website and C console program are separate runnable parts. The browser uses JavaScript for the UI; the required complaint-management data structure is implemented independently in C.
